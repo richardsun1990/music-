@@ -1,0 +1,5 @@
+{
+  "name": "简易乐谱阅读器",
+  "description": "专为老年人设计的极简 iPad 乐谱阅读应用，支持大按钮、自动滚动和歌单功能。",
+  "requestFramePermissions": []
+}
